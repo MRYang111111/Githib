@@ -1,0 +1,35 @@
+webservice是两个系统之间的调用远程调用技术；
+两者可以进行跨语言，是因为实现的是xml技术，因为使用的http协议传输的格式为xml，所以可以进行跨语言
+
+http协议：
+post：/xxx.action HTTP:1.1
+Host:www.baidu.com
+contextType:text/html
+id=001&name=zs;
+
+soap协议：
+post：/xxx.action HTTP:1.1
+Host:www.baidu.com
+<emvelop>
+<settiing></setting>
+</envelop>
+2.3.2	WSDL Web服务描述语言
+WSDL(WebService Description Language):web 服务描述语言
+就是一个xml文档，用于描述当前服务的一些信息（服务名称、服务的发布地址、服务提供的方法、方法的参数类型、方法的返回值类型等）
+  2.3.1	SOAP（Simple Object Access Protocol）：简单对象访问协议
+
+2.3.2	WSDL Web服务描述语言:
+WSDL(WebService Description Language):web 服务描述语言
+就是一个xml文档，用于描述当前服务的一些信息（服务名称、服务的发布地址、服务提供的方法、方法的参数类型、方法的返回值类型等）
+
+
+//--------------------
+webservice的特点：
+webservice通过http post接受客户端的请求
+webservice一般是使用soap协议传输xml格式
+它本身是通过跨语言和跨平台而设计的
+
+//---------------
+
+
+

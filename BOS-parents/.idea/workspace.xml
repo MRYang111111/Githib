@@ -1,0 +1,1397 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="BOS_web:war" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="952aa1f4-1b69-4a9e-8d6a-2c53bb38f32c" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/BOS-dao/target/" />
+    <ignored path="$PROJECT_DIR$/BOS_dao/target/" />
+    <ignored path="$PROJECT_DIR$/BOS_service/target/" />
+    <ignored path="$PROJECT_DIR$/BOS_web/target/" />
+    <ignored path="$PROJECT_DIR$/BOS_util/target/" />
+    <ignored path="$PROJECT_DIR$/BOS_bean/target/" />
+    <ignored path="$PROJECT_DIR$/BOS_utils/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/BOS_parents$Unnamed.ic" NAME="Unnamed Coverage Results" MODIFIED="1541323176111" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="bos32: schema" type="c314c289:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="bos_32@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="BOS-parents" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="struts.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BOS_web/src/main/resource/struts.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1320">
+              <caret line="60" column="17" selection-start-line="60" selection-start-column="17" selection-end-line="60" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Workordermanage.hbm.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BOS_bean/src/main/java/cn/yxd/bean/Workordermanage.hbm.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="7" column="42" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="quickworkorder.jsp" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BOS_web/src/main/webapp/WEB-INF/pages/qupai/quickworkorder.jsp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3718">
+              <caret line="169" column="86" selection-start-line="169" selection-start-column="60" selection-end-line="169" selection-end-column="86" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="WorkOrderMessageAction.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BOS_web/src/main/java/cn/yxd/web/action/WorkOrderMessageAction.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="94">
+              <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestDao.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BOS_dao/src/main/test/TestDao.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="回顾.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/回顾.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="550">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="db.properties" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BOS_web/src/main/resource/db.properties">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="console.sql" pinned="false" current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/c5b5813b-aa00-4340-92dd-81e0c25f5146/console.sql">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="console.sql" pinned="false" current-in-tab="true">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/3eaf0a5a-c367-4190-96d5-c173916220cf/console.sql">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="web.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="154">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <dirStrings>
+      <dir>D:\ideaProject\BOS-parents\BOS_web\src\main\webapp\easyui</dir>
+    </dirStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/BOS_web/src/main/webapp/easyui/01-layout.jsp" root0="FORCE_HIGHLIGHTING" root1="FORCE_HIGHLIGHTING" root2="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/BOS_service/src/main/java/cn/yxd/serviceImpl/CustomerServiceImplService.java" />
+        <option value="$PROJECT_DIR$/BOS_web/src/main/webapp/WEB-INF/pages/base/decidedzone.jsp" />
+        <option value="$PROJECT_DIR$/BOS_utils/src/main/java/cn/yxd/crm/CustomerService.java" />
+        <option value="$PROJECT_DIR$/BOS_utils/src/main/java/cn/yxd/crm/CustomerService.java" />
+        <option value="$PROJECT_DIR$/BOS_web/src/main/resource/applicationContext.xml" />
+        <option value="$PROJECT_DIR$/BOS_service/src/main/java/cn/yxd/serviceImpl/CustomerServiceImplService.java" />
+        <option value="$PROJECT_DIR$/BOS_web/src/main/resource/struts.xml" />
+        <option value="$PROJECT_DIR$/BOS_web/src/main/webapp/WEB-INF/pages/base/decidedzone.jsp" />
+        <option value="$PROJECT_DIR$/BOS_web/src/main/java/cn/yxd/web/action/DecidedzoneAction.java" />
+        <option value="$PROJECT_DIR$/BOS_web/src/main/webapp/WEB-INF/pages/base/decidedzone.jsp" />
+        <option value="$PROJECT_DIR$/BOS_web/src/main/webapp/WEB-INF/pages/base/decidedzone.jsp" />
+        <option value="$PROJECT_DIR$/BOS_service/src/main/java/cn/yxd/servce/SubAreaService.java" />
+        <option value="$PROJECT_DIR$/BOS_service/src/main/java/cn/yxd/serviceImpl/SubAreaServiceImpl.java" />
+        <option value="$PROJECT_DIR$/BOS_web/src/main/java/cn/yxd/web/action/SubAreaAction.java" />
+        <option value="$PROJECT_DIR$/BOS_service/src/main/java/cn/yxd/serviceImpl/SubAreaServiceImpl.java" />
+        <option value="$PROJECT_DIR$/BOS_web/src/main/java/cn/yxd/web/action/SubAreaAction.java" />
+        <option value="$PROJECT_DIR$/BOS_web/src/main/webapp/WEB-INF/pages/base/decidedzone.jsp" />
+        <option value="$PROJECT_DIR$/BOS_bean/src/main/java/cn/yxd/bean/Workordermanage.java" />
+        <option value="$PROJECT_DIR$/BOS_bean/src/main/java/cn/yxd/bean/Workbill.hbm.xml" />
+        <option value="$PROJECT_DIR$/BOS_bean/src/main/java/cn/yxd/bean/Workordermanage.hbm.xml" />
+        <option value="$PROJECT_DIR$/BOS_bean/src/main/java/cn/yxd/bean/Noticebill.hbm.xml" />
+        <option value="$PROJECT_DIR$/BOS_bean/src/main/java/cn/yxd/bean/Noticebill.hbm.xml" />
+        <option value="$PROJECT_DIR$/BOS_utils/src/main/java/cn/yxd/crm/CustomerService.java" />
+        <option value="$PROJECT_DIR$/BOS_web/src/main/webapp/WEB-INF/pages/qupai/noticebill.jsp" />
+        <option value="$PROJECT_DIR$/BOS_web/src/main/webapp/WEB-INF/pages/qupai/noticebill_add.jsp" />
+        <option value="$PROJECT_DIR$/BOS_web/src/main/resource/struts.xml" />
+        <option value="$PROJECT_DIR$/src/main/test/cn/yxd/service/NoticebillService.java" />
+        <option value="$PROJECT_DIR$/BOS_service/src/main/java/cn/yxd/servce/NoticeBillService.java" />
+        <option value="$PROJECT_DIR$/BOS_dao/src/main/java/cn/yxd/dao/NoticeBillDao.java" />
+        <option value="$PROJECT_DIR$/BOS_dao/src/main/java/cn/yxd/daoImpl/NoticeBillDaoImpl.java" />
+        <option value="$PROJECT_DIR$/BOS_dao/src/main/java/cn/yxd/dao/WorkBillDao.java" />
+        <option value="$PROJECT_DIR$/BOS_dao/src/main/java/cn/yxd/daoImpl/WorkBillDaoImpl.java" />
+        <option value="$PROJECT_DIR$/BOS_service/src/main/java/cn/yxd/serviceImpl/NoticeBillServiceImpl.java" />
+        <option value="$PROJECT_DIR$/BOS_web/src/main/java/cn/yxd/web/action/NoticebillAction.java" />
+        <option value="$PROJECT_DIR$/BOS_web/src/main/resource/applicationContext.xml" />
+        <option value="$PROJECT_DIR$/BOS_utils/src/main/java/cn/yxd/crm/CustomerService.java" />
+        <option value="$PROJECT_DIR$/BOS_web/src/main/java/cn/yxd/web/action/NoticebillAction.java" />
+        <option value="$PROJECT_DIR$/BOS_service/src/main/java/cn/yxd/servce/NoticeBillService.java" />
+        <option value="$PROJECT_DIR$/BOS_service/src/main/java/cn/yxd/serviceImpl/NoticeBillServiceImpl.java" />
+        <option value="$PROJECT_DIR$/BOS_web/src/main/resource/struts.xml" />
+        <option value="$PROJECT_DIR$/BOS_web/src/main/webapp/easyui/05dategory_edit.jsp" />
+        <option value="$PROJECT_DIR$/BOS_web/src/main/webapp/easyui/05dategory_edit.jsp" />
+        <option value="$PROJECT_DIR$/BOS_service/src/main/java/cn/yxd/servce/WorkOrderMessageService.java" />
+        <option value="$PROJECT_DIR$/BOS_dao/src/main/java/cn/yxd/dao/WorkOrderMessageDao.java" />
+        <option value="$PROJECT_DIR$/BOS_dao/src/main/java/cn/yxd/daoImpl/WorkOrderMessageDaoImpl.java" />
+        <option value="$PROJECT_DIR$/BOS_service/src/main/java/cn/yxd/serviceImpl/WorkOrderMessageServiceImpl.java" />
+        <option value="$PROJECT_DIR$/BOS_web/src/main/webapp/WEB-INF/pages/qupai/quickworkorder.jsp" />
+        <option value="$PROJECT_DIR$/BOS_web/src/main/resource/struts.xml" />
+        <option value="$PROJECT_DIR$/BOS_bean/src/main/java/cn/yxd/bean/Workordermanage.hbm.xml" />
+        <option value="$PROJECT_DIR$/BOS_web/src/main/java/cn/yxd/web/action/WorkOrderMessageAction.java" />
+        <option value="$PROJECT_DIR$/src/回顾.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="false" />
+    <option name="FILTER_DEBUG" value="false" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:/apache-maven-3.3.9-bin/apache-maven-3.3.9" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-5" />
+    <option name="width" value="1435" />
+    <option name="height" value="570" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="BOS-parents" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BOS-parents" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BOS-parents" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BOS-parents" type="462c0819:PsiDirectoryNode" />
+              <item name="BOS_web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BOS-parents" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BOS-parents" type="462c0819:PsiDirectoryNode" />
+              <item name="BOS_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BOS-parents" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BOS-parents" type="462c0819:PsiDirectoryNode" />
+              <item name="BOS_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BOS-parents" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BOS-parents" type="462c0819:PsiDirectoryNode" />
+              <item name="BOS_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resource" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BOS-parents" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BOS-parents" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BOS-parents" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BOS-parents" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BOS-parents" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BOS-parents" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BOS-parents" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BOS-parents" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BOS-parents" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="JPA.DatabaseSchemaImportDialog" value="bbf50ab4-351e-48fc-90b2-27fdeabdecd7" />
+    <property name="SearchEverywhereHistoryKey" value="*.xml&#9;FILE&#9;file://D:/ideaProject/BOS-parents/BOS_bean/src/main/java/cn/yxd/bean/Workordermanage.hbm.xml&#10;struts&#9;FILE&#9;file://D:/ideaProject/BOS-parents/BOS_web/src/main/resource/struts.xml&#10;struts.xml&#9;FILE&#9;file://D:/ideaProject/BOS-parents/BOS_web/src/main/resource/struts.xml&#10;notice&#9;FILE&#9;file://D:/ideaProject/BOS-parents/BOS_web/src/main/webapp/WEB-INF/pages/qupai/noticebill_add.jsp&#10;NoticebillAct&#9;FILE&#9;file://D:/ideaProject/BOS-parents/BOS_web/src/main/java/cn/yxd/web/action/NoticebillAction.java&#10;noticebill&#9;FILE&#9;file://D:/ideaProject/BOS-parents/BOS_web/src/main/webapp/WEB-INF/pages/qupai/noticebill_add.jsp&#10;*.jsp&#9;FILE&#9;file://D:/ideaProject/BOS-parents/BOS_web/src/main/webapp/WEB-INF/pages/qupai/noticebill.jsp&#10;Decide&#9;FILE&#9;file://D:/ideaProject/BOS-parents/BOS_web/src/main/java/cn/yxd/web/action/DecidedzoneAction.java&#10;*Dao&#9;FILE&#9;file://D:/ideaProject/BOS-parents/BOS_dao/src/main/java/cn/yxd/daoImpl/DecidedzoneDaoImpl.java&#10;Sub&#9;FILE&#9;file://D:/ideaProject/BOS-parents/BOS_web/src/main/java/cn/yxd/web/action/SubAreaAction.java&#10;*Criteria&#9;PSI&#9;JAVA://org.hibernate.criterion.DetachedCriteria&#10;SubAreaService&#9;PSI&#9;JAVA://cn.yxd.serviceImpl.SubAreaServiceImpl&#10;Decidedzone&#9;FILE&#9;file://D:/ideaProject/BOS-parents/BOS_web/src/main/java/cn/yxd/web/action/DecidedzoneAction.java&#10;decidedzone.jsp&#9;FILE&#9;file://D:/ideaProject/BOS-parents/BOS_web/src/main/webapp/WEB-INF/pages/base/decidedzone.jsp&#10;DecidedzoneAction&#9;PSI&#9;JAVA://cn.yxd.web.action.DecidedzoneAction&#10;De&#9;FILE&#9;file://D:/ideaProject/BOS-parents/BOS_web/src/main/webapp/WEB-INF/pages/base/decidedzone.jsp&#10;Ser&#9;PSI&#9;JAVA://cn.yxd.serviceImpl.RegionServiceImpl&#10;SubArea&#9;FILE&#9;file://D:/ideaProject/BOS-parents/BOS_bean/src/main/java/cn/yxd/bean/Subarea.java&#10;d&#9;FILE&#9;file://D:/ideaProject/BOS-parents/BOS_web/src/main/webapp/WEB-INF/pages/base/decidedzone.jsp&#10;Decidedzonw&#9;null&#9;null&#10;DEcide&#9;FILE&#9;file://D:/ideaProject/BOS-parents/BOS_web/src/main/webapp/WEB-INF/pages/base/decidedzone.jsp&#10;st&#9;FILE&#9;file://D:/ideaProject/BOS-parents/BOS_web/src/main/webapp/WEB-INF/pages/base/staff.jsp&#10;staff.jsp&#9;FILE&#9;file://D:/ideaProject/BOS-parents/BOS_web/src/main/webapp/WEB-INF/pages/base/staff.jsp&#10;decidedzone&#9;FILE&#9;file://D:/ideaProject/BOS-parents/BOS_web/src/main/webapp/WEB-INF/pages/base/decidedzone.jsp&#10;Subarea&#9;PSI&#9;JAVA://cn.yxd.bean.Subarea&#10;SubArea.java&#9;FILE&#9;file://D:/ideaProject/BOS-parents/BOS_bean/src/main/java/cn/yxd/bean/Subarea.java&#10;sub&#9;PSI&#9;JAVA://cn.yxd.bean.Subarea&#10;SubA&#9;FILE&#9;file://D:/ideaProject/BOS-parents/BOS_web/src/main/java/cn/yxd/web/action/SubAreaAction.java&#10;*zone&#9;FILE&#9;file://D:/ideaProject/BOS-parents/BOS_web/src/main/webapp/WEB-INF/pages/base/decidedzone.jsp&#10;Staff&#9;FILE&#9;file://D:/ideaProject/BOS-parents/BOS_bean/src/main/java/cn/yxd/bean/Staff.java&#10;StaffSe&#9;FILE&#9;file://D:/ideaProject/BOS-parents/BOS_service/src/main/java/cn/yxd/serviceImpl/StaffServiceImpl.java&#10;Staff.java&#9;FILE&#9;file://D:/ideaProject/BOS-parents/BOS_bean/src/main/java/cn/yxd/bean/Staff.java&#10;BaseDao&#9;FILE&#9;file://D:/ideaProject/BOS-parents/BOS_dao/src/main/java/cn/yxd/basedaoImpl/BaseDaoImpl.java&#10;Criteria&#9;FILE&#9;jar://C:/apache-maven-3.3.9-bin/repository/org/hibernate/hibernate-core/5.0.7.Final/hibernate-core-5.0.7.Final.jar!/org/hibernate/criterion/DetachedCriteria.class&#10;StaffServiceImpl&#9;FILE&#9;file://D:/ideaProject/BOS-parents/BOS_service/src/main/java/cn/yxd/serviceImpl/StaffServiceImpl.java&#10;*zone.jsp&#9;FILE&#9;file://D:/ideaProject/BOS-parents/BOS_web/src/main/webapp/WEB-INF/pages/base/decidedzone.jsp&#10;FileUtil&#9;FILE&#9;file://D:/ideaProject/BOS-parents/BOS_utils/src/main/java/cn/yxd/utils/FileUtils.java&#10;ServiceImp&#9;FILE&#9;file://D:/ideaProject/BOS-parents/BOS_service/src/main/java/cn/yxd/serviceImpl/SubAreaServiceImpl.java&#10;Base&#9;FILE&#9;file://D:/ideaProject/BOS-parents/BOS_dao/src/main/java/cn/yxd/basedaoImpl/BaseDaoImpl.java&#10;region&#9;FILE&#9;file://D:/ideaProject/BOS-parents/BOS_bean/src/main/java/cn/yxd/bean/Region.java&#10;subareaa&#9;FILE&#9;file://D:/ideaProject/BOS-parents/BOS_web/src/main/java/cn/yxd/web/action/SubAreaAction.java&#10;grid&#9;FILE&#9;file://D:/ideaProject/BOS-parents/BOS_web/src/main/webapp/js/easyui/themes/black/datagrid.css&#10;subarea.jsp&#9;FILE&#9;file://D:/ideaProject/BOS-parents/BOS_web/src/main/webapp/WEB-INF/pages/base/subarea.jsp&#10;*.xm&#9;FILE&#9;file://D:/ideaProject/BOS-parents/BOS_bean/src/main/java/cn/yxd/bean/Subarea.hbm.xml&#10;SubAreaDaoImpl&#9;FILE&#9;file://D:/ideaProject/BOS-parents/BOS_dao/src/main/java/cn/yxd/daoImpl/SubAreaDaoImpl.java&#10;SubSer&#9;FILE&#9;file://D:/ideaProject/BOS-parents/BOS_service/src/main/java/cn/yxd/servce/SubAreaService.java&#10;Service&#9;FILE&#9;file://D:/ideaProject/BOS-parents/BOS_service/src/main/java/cn/yxd/serviceImpl/SubAreaServiceImpl.java&#10;subarea.xm&#9;FILE&#9;file://D:/ideaProject/BOS-parents/BOS_bean/src/main/java/cn/yxd/bean/Subarea.hbm.xml&#10;subarea&#9;FILE&#9;file://D:/ideaProject/BOS-parents/BOS_web/src/main/webapp/WEB-INF/pages/base/subarea.jsp" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+    <property name="last_opened_file_path" value="$USER_HOME$/IdeaProjects/CRM/web/WEB-INF/lib/mysql-connector-java-5.1.7-bin.jar" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.18638574" />
+    <property name="project.structure.side.proportion" value="0.4487021" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.yxd.crm" />
+      <recent name="cn.yxd.serviceImpl" />
+      <recent name="cn.yxd.servce" />
+      <recent name="cn.yxd.bean" />
+    </key>
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="cn.yxd.dao" />
+      <recent name="cn.yxd.servce" />
+      <recent name="cn.yxd.service" />
+    </key>
+    <key name="ImportMappingsDialog.RecentPackages">
+      <recent name="cn.yxd.bean" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ideaProject\BOS-parents\BOS_web\src\main\webapp\easyui" />
+      <recent name="D:\ideaProject\BOS-parents\BOS_bean\src\main\java\cn\yxd\bean" />
+      <recent name="D:\ideaProject\BOS-parents\BOS_utils\src\main\java\cn\yxd\crm" />
+      <recent name="D:\ideaProject\BOS-parents\BOS_service\src\main\java\cn\yxd\serviceImpl" />
+      <recent name="D:\ideaProject\BOS-parents\BOS_service\src\main\java\cn\yxd\servce" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.Unnamed">
+    <configuration name="App" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.yxd.webservice01.App" />
+      <module name="BOS-parents" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.yxd.webservice01.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="test1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.yxd.test.test1" />
+      <module name="BOS-parents" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.yxd.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="BOSdao" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="05dategory_edit.jsp (1)" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" temporary="true" APPLICATION_SERVER_NAME="Tomcat 8.5.312" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/easyui/05dategory_edit.jsp" />
+      <deployment>
+        <artifact name="BOS_web:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="05dategory_edit_jsp_(1)_BOS-parents" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="BOS_web:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="05dategory_edit.jsp" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" temporary="true" APPLICATION_SERVER_NAME="Tomcat 8.5.312" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/easyui/05dategory_edit.jsp" />
+      <deployment>
+        <artifact name="BOS_web:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="05dategory_edit_jsp_BOS-parents" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="BOS_web:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="Unnamed" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 8.5.311" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8081/" />
+      <option name="UPDATING_POLICY" value="redeploy-artifacts" />
+      <deployment>
+        <artifact name="BOS_web:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Unnamed_BOS-parents_8" />
+        <option name="HTTP_PORT" value="8081" />
+        <option name="JNDI_PORT" value="1088" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="53124" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="BOS_web:war" />
+        </option>
+      </method>
+    </configuration>
+    <configuration name="decidedzone.jsp" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" temporary="true" APPLICATION_SERVER_NAME="Tomcat 8.5.311" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8080/WEB-INF/pages/base/decidedzone.jsp" />
+      <deployment>
+        <artifact name="BOS_web:war">
+          <settings>
+            <option name="CONTEXT_PATH" value="/" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="decidedzone_jsp_BOS-parents" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="BOS_web:war" />
+        </option>
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Tomcat Server.Unnamed" />
+      <item itemvalue="Application.App" />
+      <item itemvalue="Application.test1" />
+      <item itemvalue="Tomcat Server.decidedzone.jsp" />
+      <item itemvalue="Tomcat Server.05dategory_edit.jsp" />
+      <item itemvalue="Tomcat Server.05dategory_edit.jsp (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Tomcat Server.05dategory_edit.jsp (1)" />
+        <item itemvalue="Tomcat Server.05dategory_edit.jsp" />
+        <item itemvalue="Tomcat Server.decidedzone.jsp" />
+        <item itemvalue="Application.test1" />
+        <item itemvalue="Application.App" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="952aa1f4-1b69-4a9e-8d6a-2c53bb38f32c" name="Default" comment="" />
+      <created>1540731304936</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1540731304936</updated>
+      <workItem from="1540731324029" duration="359000" />
+      <workItem from="1540731923793" duration="5378000" />
+      <workItem from="1540784067033" duration="11378000" />
+      <workItem from="1540904094084" duration="10371000" />
+      <workItem from="1540964289440" duration="2817000" />
+      <workItem from="1540968643604" duration="991000" />
+      <workItem from="1540972505538" duration="312000" />
+      <workItem from="1540983890623" duration="4186000" />
+      <workItem from="1540992599078" duration="4428000" />
+      <workItem from="1541075614436" duration="5616000" />
+      <workItem from="1541082839461" duration="1845000" />
+      <workItem from="1541084848233" duration="3779000" />
+      <workItem from="1541140480178" duration="24000" />
+      <workItem from="1541148890020" duration="205000" />
+      <workItem from="1541149805404" duration="4295000" />
+      <workItem from="1541157298033" duration="5868000" />
+      <workItem from="1541170665111" duration="6708000" />
+      <workItem from="1541241955809" duration="6673000" />
+      <workItem from="1541249997572" duration="5147000" />
+      <workItem from="1541320118951" duration="11742000" />
+      <workItem from="1541336954667" duration="5817000" />
+      <workItem from="1541347498367" duration="2368000" />
+      <workItem from="1541391046103" duration="10913000" />
+      <workItem from="1541417577889" duration="3352000" />
+      <workItem from="1541421775202" duration="4844000" />
+      <workItem from="1541485081864" duration="5719000" />
+      <workItem from="1541492134681" duration="4488000" />
+      <workItem from="1541503166703" duration="13824000" />
+      <workItem from="1541571207816" duration="11676000" />
+      <workItem from="1541595404333" duration="1040000" />
+      <workItem from="1541597875242" duration="5587000" />
+      <workItem from="1541816585164" duration="4169000" />
+      <workItem from="1541824352092" duration="2390000" />
+      <workItem from="1541827034172" duration="19613000" />
+      <workItem from="1541851181118" duration="5109000" />
+      <workItem from="1541916843094" duration="3179000" />
+      <workItem from="1541920811372" duration="7042000" />
+      <workItem from="1541950735091" duration="346000" />
+      <workItem from="1541952615574" duration="3315000" />
+      <workItem from="1541996958829" duration="13005000" />
+      <workItem from="1542106585726" duration="6908000" />
+      <workItem from="1542114278956" duration="5994000" />
+      <workItem from="1542173534581" duration="3286000" />
+      <workItem from="1542185281385" duration="1012000" />
+      <workItem from="1542193528839" duration="1269000" />
+      <workItem from="1542209236631" duration="3547000" />
+      <workItem from="1542342385475" duration="601000" />
+      <workItem from="1542427475320" duration="1856000" />
+      <workItem from="1542523279100" duration="7261000" />
+      <workItem from="1542532095310" duration="1589000" />
+      <workItem from="1542534128692" duration="1690000" />
+      <workItem from="1542537551287" duration="638000" />
+      <workItem from="1542540150936" duration="6866000" />
+      <workItem from="1542557471936" duration="640000" />
+      <workItem from="1542609356235" duration="9950000" />
+      <workItem from="1542640166931" duration="4458000" />
+      <workItem from="1542698227872" duration="5176000" />
+      <workItem from="1542717594398" duration="1749000" />
+      <workItem from="1542725555496" duration="2875000" />
+      <workItem from="1542729556956" duration="1114000" />
+      <workItem from="1542731599747" duration="3115000" />
+      <workItem from="1542765603256" duration="557000" />
+      <workItem from="1542782730268" duration="2268000" />
+      <workItem from="1542788100257" duration="1155000" />
+      <workItem from="1542868574770" duration="4567000" />
+      <workItem from="1542955038098" duration="1416000" />
+      <workItem from="1542957968524" duration="13675000" />
+      <workItem from="1543147009056" duration="7437000" />
+      <workItem from="1543210604781" duration="8099000" />
+      <workItem from="1543306683661" duration="6579000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="PIOTest_fun1 - 2018.11.08 at 00h 17m 07s.xml">
+      <configuration name="PIOTest.fun1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PIOTest_fun1 - 2018.11.08 at 00h 17m 25s.xml">
+      <configuration name="PIOTest.fun1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PingYIn4Test_fun1 - 2018.11.10 at 12h 38m 25s.xml">
+      <configuration name="PingYIn4Test.fun1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PingYIn4Test_fun1 - 2018.11.10 at 12h 38m 48s.xml">
+      <configuration name="PingYIn4Test.fun1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PingYIn4Test_fun1 - 2018.11.10 at 12h 40m 49s.xml">
+      <configuration name="PingYIn4Test.fun1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PingYIn4Test_fun1 - 2018.11.10 at 12h 41m 26s.xml">
+      <configuration name="PingYIn4Test.fun1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PingYIn4Test_fun1 - 2018.11.10 at 12h 43m 14s.xml">
+      <configuration name="PingYIn4Test.fun1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PingYIn4Test_fun1 - 2018.11.10 at 12h 43m 28s.xml">
+      <configuration name="PingYIn4Test.fun1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PingYIn4Test_fun1 - 2018.11.10 at 12h 43m 45s.xml">
+      <configuration name="PingYIn4Test.fun1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PingYIn4Test_fun1 - 2018.11.10 at 12h 45m 11s.xml">
+      <configuration name="PingYIn4Test.fun1" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="337265000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="6" sideWeight="0.15817694" side_tool="true" weight="0.3133903" />
+      <window_info anchor="bottom" id="Application Servers" order="12" sideWeight="0.15281501" weight="0.494302" />
+      <window_info anchor="right" id="Maven Projects" order="9" weight="0.030160857" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" anchor="right" id="Database" order="4" visible="true" weight="0.0" />
+      <window_info id="Structure" order="1" sideWeight="0.5014245" side_tool="true" weight="0.22386059" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="bottom" id="Debug" order="2" sideWeight="0.808311" weight="0.25071225" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="bottom" id="Java Enterprise" order="9" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" auto_hide="true" x="-179" y="506" width="1703" height="372" id="Run" order="15" sideWeight="0.84182304" weight="0.33903134" />
+      <window_info anchor="bottom" id="Spring" order="13" sideWeight="0.21715818" weight="0.32905984" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info content_ui="combo" x="1" y="30" width="161" height="793" id="Project" order="0" sideWeight="0.4909091" visible="true" weight="0.22855228" />
+      <window_info id="Web" order="2" side_tool="true" weight="0.24262735" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info id="Favorites" order="2" sideWeight="0.5014245" side_tool="true" weight="0.22386059" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="8" sideWeight="0.8130027" weight="0.22364673" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info id="Persistence" order="3" sideWeight="0.06552707" side_tool="true" weight="0.22386059" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.7205094" weight="0.32905984" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="8" side_tool="true" visible="true" weight="0.033854168" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection Results" order="14" sideWeight="0.9008043" weight="0.72507125" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Persistence" order="8" sideWeight="0.06552707" side_tool="true" weight="0.22386059" />
+      <window_info anchor="bottom" id="Application Servers" order="12" sideWeight="0.15281501" weight="0.494302" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Spring" order="13" sideWeight="0.21782842" weight="0.0" />
+      <window_info id="Image Layers" order="3" />
+      <window_info anchor="bottom" auto_hide="true" x="-179" y="506" width="1703" height="372" id="Run" order="15" sideWeight="0.86863273" weight="0.44586894" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" sideWeight="0.5014245" side_tool="true" weight="0.22386059" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="bottom" id="Inspection Results" order="14" sideWeight="0.9008043" weight="0.72507125" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Event Log" order="6" sideWeight="0.1313673" side_tool="true" visible="true" weight="0.44586894" />
+      <window_info anchor="bottom" id="Messages" order="8" sideWeight="0.8130027" weight="0.54273504" />
+      <window_info anchor="bottom" id="TODO" order="5" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Java Enterprise" order="9" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="right" id="Maven Projects" order="9" weight="0.030160857" />
+      <window_info content_ui="combo" x="1" y="30" width="161" height="793" id="Project" order="0" sideWeight="0.4909091" visible="true" weight="0.17627347" />
+      <window_info anchor="right" id="Database" order="4" weight="0.017426273" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info id="Web" order="7" side_tool="true" weight="0.24262735" />
+      <window_info anchor="right" id="Palette&#9;" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info id="Structure" order="1" sideWeight="0.5014245" side_tool="true" weight="0.22386059" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="right" id="Coverage" order="8" side_tool="true" visible="true" weight="0.033854168" />
+      <window_info anchor="bottom" id="Find" order="1" sideWeight="0.7205094" weight="0.32905984" />
+      <window_info anchor="bottom" id="Debug" order="2" sideWeight="0.8103217" weight="0.3091168" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/BOS_web/src/main/java/cn/yxd/test/PingYIn4Test.java</url>
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/BOS_web/src/main/java/cn/yxd/test/PingYIn4Test.java</url>
+          <line>15</line>
+          <properties />
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/BOS_web/src/main/java/cn/yxd/test/PingYIn4Test.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/BOS_service/src/main/java/cn/yxd/serviceImpl/DecidedzoneServiceImpl.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/BOS_service/src/main/java/cn/yxd/serviceImpl/DecidedzoneServiceImpl.java</url>
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/BOS_service/src/main/java/cn/yxd/serviceImpl/NoticeBillServiceImpl.java</url>
+          <line>53</line>
+          <properties />
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/BOS_web/src/main/java/cn/yxd/web/action/NoticebillAction.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/BOS_service/src/main/java/cn/yxd/serviceImpl/NoticeBillServiceImpl.java</url>
+          <line>32</line>
+          <properties />
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/BOS_web/src/main/java/cn/yxd/web/action/DecidedzoneAction.java</url>
+          <line>16</line>
+          <properties field="subareaid" class="cn.yxd.web.action.DecidedzoneAction" />
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="71" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory">
+        <watch expression="((ValidationAwareSupport)((UserAction)this).validationAware).actionMessages" language="JAVA" custom="com.opensymphony.xwork2.ValidationAwareSupport,cn.yxd.web.action.UserAction" />
+        <watch expression="pageBean.detachedCriteria" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>opensession</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>((ValidationAwareSupport)((UserAction)this).validationAware).actionMessages</expression-string>
+        <language-id>JAVA</language-id>
+        <custom-info>com.opensymphony.xwork2.ValidationAwareSupport,cn.yxd.web.action.UserAction</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/BOS_web/src/main/java/cn/yxd/web/action/DecidedzoneAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1298">
+          <caret line="74" column="69" selection-start-line="74" selection-start-column="58" selection-end-line="74" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BOS_service/src/main/java/cn/yxd/serviceImpl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="18" column="28" selection-start-line="18" selection-start-column="28" selection-end-line="18" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BOS_web/src/main/webapp/WEB-INF/pages/base/decidedzone.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="22" column="52" selection-start-line="22" selection-start-column="52" selection-end-line="22" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BOS_web/src/main/webapp/WEB-INF/pages/qupai/noticebill.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="157" column="96" selection-start-line="157" selection-start-column="96" selection-end-line="157" selection-end-column="96" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/test/cn/yxd/service/NoticebillService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BOS_dao/src/main/java/cn/yxd/dao/NoticeBillDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="30" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BOS_dao/src/main/java/cn/yxd/basedao/IBaseDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="12" column="11" lean-forward="true" selection-start-line="12" selection-start-column="11" selection-end-line="12" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BOS_bean/src/main/java/cn/yxd/bean/Decidedzone.hbm.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="87" selection-start-line="10" selection-start-column="87" selection-end-line="10" selection-end-column="87" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BOS_bean/src/main/java/cn/yxd/bean/Decidedzone.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="14" column="23" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BOS_dao/src/main/java/cn/yxd/daoImpl/WorkBillDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/apache-maven-3.3.9-bin/repository/ognl/ognl/3.0.6/ognl-3.0.6.jar!/ognl/OgnlRuntime.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="67">
+          <caret line="820" selection-start-line="820" selection-end-line="820" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/apache-maven-3.3.9-bin/repository/org/apache/struts/xwork/xwork-core/2.3.24/xwork-core-2.3.24.jar!/com/opensymphony/xwork2/ognl/accessor/XWorkMethodAccessor.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="75" selection-start-line="75" selection-end-line="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/apache-maven-3.3.9-bin/repository/org/apache/struts/xwork/xwork-core/2.3.24/xwork-core-2.3.24.jar!/com/opensymphony/xwork2/DefaultActionInvocation.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="369" column="25" selection-start-line="369" selection-start-column="25" selection-end-line="369" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/apache-maven-3.3.9-bin/repository/ognl/ognl/3.0.6/ognl-3.0.6.jar!/ognl/ASTMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/apache-maven-3.3.9-bin/repository/ognl/ognl/3.0.6/ognl-3.0.6.jar!/ognl/MethodFailedException.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BOS_dao/src/main/java/cn/yxd/dao/WorkBillDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BOS_web/src/main/webapp/WEB-INF/pages/qupai/noticebill_add.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="607">
+          <caret line="49" column="40" lean-forward="true" selection-start-line="49" selection-start-column="40" selection-end-line="49" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BOS_bean/src/main/java/cn/yxd/bean/Region.hbm.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BOS_bean/src/main/java/cn/yxd/bean/Noticebill.hbm.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" column="60" lean-forward="true" selection-start-line="15" selection-start-column="60" selection-end-line="15" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BOS_bean/src/main/java/cn/yxd/bean/Workordermanage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="27" column="28" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BOS_bean/src/main/java/cn/yxd/bean/Workbill.hbm.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" column="44" lean-forward="true" selection-start-line="6" selection-start-column="44" selection-end-line="6" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BOS_web/src/main/resource/applicationContext.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="61" column="71" lean-forward="true" selection-start-line="61" selection-start-column="71" selection-end-line="61" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BOS_dao/src/main/java/cn/yxd/daoImpl/NoticeBillDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="9" column="1" lean-forward="true" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/apache-maven-3.3.9-bin/repository/org/springframework/spring-aop/4.2.4.RELEASE/spring-aop-4.2.4.RELEASE.jar!/org/springframework/aop/framework/ReflectiveMethodInvocation.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="63" selection-start-line="63" selection-end-line="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BOS_utils/src/main/java/cn/yxd/crm/CustomerService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="18" column="31" lean-forward="true" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BOS_service/src/main/java/cn/yxd/servce/DecidedzoneService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="5" column="17" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BOS_web/src/main/java/cn/yxd/web/action/NoticebillAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="682">
+          <caret line="37" column="28" selection-start-line="37" selection-start-column="28" selection-end-line="37" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BOS_service/src/main/java/cn/yxd/servce/NoticeBillService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BOS_service/src/main/java/cn/yxd/serviceImpl/DecidedzoneServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="14" column="25" selection-start-line="14" selection-start-column="25" selection-end-line="14" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BOS_bean/src/main/java/cn/yxd/bean/Staff.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="14" column="24" selection-start-line="14" selection-start-column="24" selection-end-line="14" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BOS_bean/src/main/java/cn/yxd/bean/Noticebill.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="16" column="15" selection-start-line="16" selection-start-column="15" selection-end-line="16" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BOS_bean/src/main/java/cn/yxd/bean/Workbill.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="33" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BOS_service/src/main/java/cn/yxd/serviceImpl/NoticeBillServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="616">
+          <caret line="39" column="45" selection-start-line="39" selection-start-column="45" selection-end-line="39" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BOS_service/src/main/java/cn/yxd/servce/WorkOrderMessageService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="40" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BOS_dao/src/main/java/cn/yxd/daoImpl/WorkOrderMessageDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="8" column="77" selection-start-line="8" selection-start-column="77" selection-end-line="8" selection-end-column="77" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BOS_dao/src/main/java/cn/yxd/dao/WorkOrderMessageDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BOS_service/src/main/java/cn/yxd/serviceImpl/WorkOrderMessageServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="15" column="45" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#601#602#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BOS_web/src/main/webapp/easyui/04datagrid.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="814">
+          <caret line="37" column="48" selection-start-line="37" selection-start-column="48" selection-end-line="37" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BOS_web/src/main/webapp/easyui/05dategory_edit.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1232">
+          <caret line="56" column="38" selection-start-line="56" selection-start-column="38" selection-end-line="56" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BOS_web/src/main/webapp/WEB-INF/pages/qupai/workorderimport.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2750">
+          <caret line="125" column="52" selection-start-line="125" selection-start-column="52" selection-end-line="125" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BOS_web/src/main/webapp/WEB-INF/pages/qupai/quickworkorder.jsp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3718">
+          <caret line="169" column="86" selection-start-line="169" selection-start-column="60" selection-end-line="169" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BOS_web/src/main/resource/struts.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1320">
+          <caret line="60" column="17" selection-start-line="60" selection-start-column="17" selection-end-line="60" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BOS_bean/src/main/java/cn/yxd/bean/Workordermanage.hbm.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="42" selection-start-line="7" selection-start-column="42" selection-end-line="7" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BOS_web/src/main/java/cn/yxd/web/action/WorkOrderMessageAction.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="94">
+          <caret line="12" column="16" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BOS_dao/src/main/test/TestDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/e423372a-f76d-45ec-955c-5000d88ec674/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/回顾.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BOS_web/src/main/resource/db.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/c5b5813b-aa00-4340-92dd-81e0c25f5146/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/3eaf0a5a-c367-4190-96d5-c173916220cf/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>BOS-parents:war</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.4487021" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring (BOS_web)|Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.4487021" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.4487021" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.4487021" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>BOS_bean</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.4487021" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: org.codehaus.woodstox:woodstox-core-asl:4.4.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.4487021" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.4487021" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

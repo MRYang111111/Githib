@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="json-lib-2.4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/BOS_web/src/main/webapp/WEB-INF/lib/json-lib-2.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

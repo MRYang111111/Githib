@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="bos_32@localhost" uuid="c5b5813b-aa00-4340-92dd-81e0c25f5146">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" />
+      <secret-storage>master_key</secret-storage>
+      <first-sync>true</first-sync>
+      <user-name>yxd</user-name>
+    </data-source>
+    <data-source name="@localhost" uuid="3eaf0a5a-c367-4190-96d5-c173916220cf">
+      <database-info product="MySQL" version="5.7.21-log" jdbc-version="3.0" driver-name="MySQL-AB JDBC Driver" driver-version="mysql-connector-java-5.1.7 ( Revision: ${svn.Revision} )">
+        <extra-name-characters>#@</extra-name-characters>
+        <identifier-quote-string>`</identifier-quote-string>
+      </database-info>
+      <case-sensitivity plain-identifiers="lower" quoted-identifiers="lower" />
+      <user-name>yxd</user-name>
+      <introspection-schemas>*:bos32</introspection-schemas>
+    </data-source>
+  </component>
+</project>

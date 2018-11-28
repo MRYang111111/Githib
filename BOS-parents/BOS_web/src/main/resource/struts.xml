@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE struts PUBLIC
+    "-//Apache Software Foundation//DTD Struts Configuration 2.3//EN"
+    "http://struts.apache.org/dtds/struts-2.3.dtd">
+<struts>
+	<!--是否以开发者模式运行-->
+	<constant name="struts.devMode" value="false" />
+	<!-- 
+		<constant name="struts.objectFactory" value="spring"/>
+	 -->
+	<package name="basicstruts2"  extends="struts-default">
+		<!--配置拦截器zhan-->
+		<interceptors>
+			<!--注册拦截器-->
+			<interceptor name="PrivilegeInterceptor" class="cn.yxd.web.intercepter.BosLoginInterceptor">	</interceptor>
+			<!--配置拦截器栈-->
+			<interceptor-stack name="MyStack">
+				<!--引入拦截器-->
+				<interceptor-ref name="PrivilegeInterceptor">
+					<!--注册不拦截的方法-->
+					<param name="excludeMethods">login</param>
+				</interceptor-ref>
+				<!--注册默认的拦截器-->
+				<interceptor-ref name="defaultStack"></interceptor-ref>
+			</interceptor-stack>
+		</interceptors>
+		<!--引入拦截器-->
+		<default-interceptor-ref name="MyStack"></default-interceptor-ref>
+		<global-results>
+			<result name="login" >/login.jsp</result>
+		</global-results>
+		<!-- 需要进行权限控制的页面访问 -->
+		<action name="page_*_*">
+			<result type="dispatcher">/WEB-INF/pages/{1}/{2}.jsp</result>
+		</action>
+		<action name="userAction_*" class="userAction" method="{1}">
+			<result name="login" >/login.jsp</result>
+			<result name="home">/index.jsp</result>
+		</action>
+		<!--配置staffAction-->
+		<action name="staffAction_*" class="staffAction" method="{1}">
+			<result name="staffList" >/WEB-INF/pages/base/staff.jsp</result>
+			<result name="list" >/WEB-INF/pages/base/staff.jsp</result>
+			<result name="edit" >/WEB-INF/pages/base/staff.jsp</result>
+		</action>
+		<action name="regionAction_*" class="regionAction" method="{1}">
+			<result name="toRegionList" >/WEB-INF/pages/base/region.jsp</result>
+		</action>
+		<action name="subAreaAction_*" class="subAreaAction" method="{1}">
+			<result name="add" >/WEB-INF/pages/base/subarea.jsp</result>
+		</action>
+		<action name="decidedzoneAction_*" class="decidedzoneAction" method="{1}">
+			<result name="toDecidedzoneList" >/WEB-INF/pages/base/decidedzone.jsp</result>
+			<!--转回页面-->
+			<!--<result name="toList">/WEB-INF/pages/base/decidedzone.jsp</result>-->
+		</action>
+		<action name="noticebillAction_*" class="noticebillAction" method="{1}">
+			<result name="add" >WEB-INF/pages/qupai/noticebill_add.jsp</result>
+		</action>
+		<action name="workOrderMessageAction_*" class="workOrderMessageAction" method="{1}">
+		</action>
+	</package>
+</struts>
